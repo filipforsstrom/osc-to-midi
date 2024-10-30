@@ -44,7 +44,7 @@
           xorg.libXinerama
           xorg.libXrandr
           xorg.libXrender
-          webkitgtk
+          webkitgtk_4_1
           libGLU
           # can these be changed?
           pcre2
